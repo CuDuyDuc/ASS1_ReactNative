@@ -1,0 +1,12 @@
+const SCREENS = {
+    INTRO: 'INTRO',
+    LOGIN: 'LOGIN',
+    REGISTER: 'REGISTER',
+    HOMEPAGE: 'HOMEPAGE',
+    CART: 'CART',
+    FAVOURITE: 'FAVOURITE',
+    ORDER_HISTORY: 'ORDER_HISTORY',
+    
+}
+
+export default SCREENS;
